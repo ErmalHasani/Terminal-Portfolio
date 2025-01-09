@@ -1,0 +1,7 @@
+.cmd{
+    color: #8080ff;
+}
+.desc{
+  max-width: 900px;
+  shape-outside: content-box;
+}
