@@ -114,7 +114,7 @@ function showGreetings() {
     ${color("maincolor", "  ....                ,ONkc;,;cokOdc',. ")}           Packages: 209 (dpkg)
     ${color("maincolor", " .                   OMo")}           ${color("white", "':ddo.")}          Shell: bash 5.2.15
     ${color("maincolor", "                    dMc               :OO;")}         Terminal: /dev/pts/1
-    ${color("maincolor", "                    0M.                 .:o.")}       CPU: Ryzen 5 5500 (8) @ 4.6GHz
+    ${color("maincolor", "                    0M.                 .:o.")}       CPU: Ryzen 5 5500 (8) @ 3.6GHz
     ${color("maincolor", "                    ;Wd")}                            GPU: GeForce RTX 3060 VENTUS 2X 12GB OC
     ${color("maincolor", "                     ;XO,")}                          Memory: 6800MiB / 15944MiB (42%)
     ${color("maincolor", "                       ,d0Odlc;..")}
@@ -273,7 +273,7 @@ $("body").terminal(
     ${color("maincolor", "  ....                ,ONkc;,;cokOdc',. ")}           Packages: 209 (dpkg)
     ${color("maincolor", " .                   OMo")}           ${color("white", "':ddo.")}          Shell: bash 5.2.15
     ${color("maincolor", "                    dMc               :OO;")}         Terminal: /dev/pts/1
-    ${color("maincolor", "                    0M.                 .:o.")}       CPU: Ryzen 5 5500 (8) @ 4.6GHz
+    ${color("maincolor", "                    0M.                 .:o.")}       CPU: Ryzen 5 5500 (8) @ 3.6GHz
     ${color("maincolor", "                    ;Wd")}                            GPU: GeForce RTX 3060 VENTUS 2X 12GB OC
     ${color("maincolor", "                     ;XO,")}                          Memory: 6800MiB / 15944MiB (42%)
     ${color("maincolor", "                       ,d0Odlc;..")}
@@ -343,7 +343,7 @@ $("body").terminal(
     ${color("maincolor", "  ....                ,ONkc;,;cokOdc',. ")}           Packages: 209 (dpkg)
     ${color("maincolor", " .                   OMo")}           ${color("white", "':ddo.")}          Shell: bash 5.2.15
     ${color("maincolor", "                    dMc               :OO;")}         Terminal: /dev/pts/1
-    ${color("maincolor", "                    0M.                 .:o.")}       CPU: Ryzen 5 5500 (8) @ 4.6GHz
+    ${color("maincolor", "                    0M.                 .:o.")}       CPU: Ryzen 5 5500 (8) @ 3.6GHz
     ${color("maincolor", "                    ;Wd")}                            GPU: GeForce RTX 3060 VENTUS 2X 12GB OC
     ${color("maincolor", "                     ;XO,")}                          Memory: 6800MiB / 15944MiB (42%)
     ${color("maincolor", "                       ,d0Odlc;..")}
