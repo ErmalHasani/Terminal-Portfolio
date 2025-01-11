@@ -249,7 +249,7 @@ $("body").terminal(
         const banner = `${color("maincolor", links_banner)}`;
         this.echo(banner);
         this.echo(list);
-        this.echo(color("blue", "ATTENTION! To redirect to the url's in list, type go and name, example, go discord"));
+        this.echo(color("blue", "ATTENTION! This command will redirect to the github."));
       } else {
         this.echo(color("red", "err! try: go list"));
       }
