@@ -22,7 +22,7 @@ git clone https://github.com/your-username/terminal-simulation-web-app.git
 Navigate to the project directory:
 ```
 cd terminal-simulation-web-app
-Open index.html in your web browser: Simply double-click index.html or open it through your preferred code editor's live preview.
+Use any live server to start index.html.
 ```
 
 Usage
