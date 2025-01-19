@@ -17,11 +17,11 @@ To get started with the app locally, follow these steps:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/terminal-simulation-web-app.git
+git clone https://github.com/ErmalHasani/TerminalPortfolio.git
 ```
 Navigate to the project directory:
 ```
-cd terminal-simulation-web-app
+cd TerminalPortfolio
 Use any live server to start index.html.
 ```
 
